@@ -1,0 +1,18 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"GitGutter",
+		"MarkdownEditing",
+		"Package Control",
+		"PHP Companion",
+		"Phpcs",
+		"Pretty JSON",
+		"Pretty YAML",
+		"SqlBeautifier",
+		"SQLExec"
+	]
+}
