@@ -1,3 +1,5 @@
 [
 		{ "keys": ["ctrl+\\"], "command": "toggle_side_bar" },
+		{ "keys": ["ctrl+shift+s"], "command": "save_all" },
+
 ]
