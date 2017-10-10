@@ -1,6 +1,5 @@
 [
 		{ "keys": ["ctrl+\\"], "command": "toggle_side_bar" },
 		{ "keys": ["ctrl+shift+s"], "command": "save_all" },
-		{ "keys": ["ctrl+e"], "command": "toggle_show_open_files" },
-
+		{ "keys": ["ctrl+e"], "command": "open_recently_closed_file" }
 ]
