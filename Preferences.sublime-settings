@@ -2,7 +2,6 @@
 	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
 	"folder_exclude_patterns":
 	[
-		"vendor/",
 		"runtime/",
 		".git/"
 	],
