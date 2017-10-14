@@ -16,9 +16,11 @@
 		"Package Control",
 		"Path Tools",
 		"PHP Companion",
+		"PHP-Twig",
 		"Phpcs",
 		"Pretty JSON",
 		"Pretty YAML",
+		"SideBarEnhancements",
 		"SqlBeautifier",
 		"SQLExec"
 	]
