@@ -23,7 +23,6 @@
 		"Pretty JSON",
 		"Pretty YAML",
 		"SideBarEnhancements",
-		"SqlBeautifier",
-		"SQLExec"
+		"SqlBeautifier"
 	]
 }
