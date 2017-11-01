@@ -1,0 +1,5 @@
+{
+    "phpcbf_executable_path": "/usr/local/bin/phpcbf",
+    "phpcs_executable_path": "/usr/local/bin/phpcs",
+    "phpcs_php_path": "/usr/bin/php"
+}
