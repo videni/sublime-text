@@ -2,5 +2,7 @@
 		{ "keys": ["ctrl+\\"], "command": "toggle_side_bar" },
 		{ "keys": ["ctrl+shift+s"], "command": "save_all" },
 		{ "keys": ["ctrl+e"], "command": "open_recently_closed_file" },
-		{ "keys": ["ctrl+shift+o"], "command": "prompt_open_folder" }
+		{ "keys": ["ctrl+shift+o"], "command": "prompt_open_folder" },
+		{ "keys": ["alt+,"], "command": "move_to", "args": {"to": "bol", "extend": false} },
+		{ "keys": ["alt+."], "command": "move_to", "args": {"to": "eol", "extend": false} }
 ]
