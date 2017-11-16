@@ -1,4 +1,5 @@
 {
 	    "enabled_parsers": ["markdown"],
-        "image_path_conversion": "base64"
+        "image_path_conversion": "base64",
+        "enable_highlight": true
 }
