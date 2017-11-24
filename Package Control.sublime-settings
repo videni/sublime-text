@@ -6,14 +6,27 @@
 	"installed_packages":
 	[
 		"A File Icon",
+		"AdvancedNewFile",
+		"AlignTab",
+		"All Autocomplete",
 		"Babel",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"ColorPicker",
+		"CSS3",
+		"DA CS",
 		"DA UI",
 		"DocBlockr",
 		"Dockerfile Syntax Highlighting",
 		"Emmet",
+		"Emmet Css Snippets",
 		"File History",
 		"GitGutter",
 		"HTML-CSS-JS Prettify",
+		"HTML5",
+		"HTMLBeautify",
+		"JsFormat",
+		"LiveReload",
 		"Markdown Preview",
 		"MarkdownEditing",
 		"Oceanic Next Color Scheme",
@@ -28,6 +41,8 @@
 		"Pretty YAML",
 		"Sass",
 		"SideBarEnhancements",
-		"SqlBeautifier"
+		"SqlBeautifier",
+		"SublimeCodeIntel",
+		"TrailingSpaces"
 	]
 }
