@@ -1,6 +1,7 @@
 [
 		{ "keys": ["ctrl+\\"], "command": "toggle_side_bar" },
 		{ "keys": ["ctrl+shift+s"], "command": "save_all" },
+		{ "keys": ["ctrl+alt+f"], "command": "phpcs_fix_this_file" ,"args": {"tool": "CodeBeautifier"}},
 		{ "keys": ["ctrl+e"], "command": "open_recently_closed_file" },
 		{ "keys": ["ctrl+shift+o"], "command": "prompt_open_folder" },
 		{ "keys": ["alt+,"], "command": "move_to", "args": {"to": "bol", "extend": false} },
