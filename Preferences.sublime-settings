@@ -11,6 +11,7 @@
 		"runtime/",
 		".git/"
 	],
+	"index_files": true,
 	"skin": "DA UI/Origin",
 	"theme": "DA.sublime-theme"
 }
