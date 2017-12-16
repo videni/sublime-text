@@ -12,6 +12,10 @@
 		".git/"
 	],
 	"index_files": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
 	"skin": "DA UI/Origin",
 	"theme": "DA.sublime-theme"
 }
