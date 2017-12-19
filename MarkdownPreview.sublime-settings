@@ -2,5 +2,5 @@
 	    "enabled_parsers": ["markdown"],
         "image_path_conversion": "base64",
         "enable_highlight": true,
-        "browser": "/Applications/Google Chrome.app",
+        // "browser": "/Applications/Google Chrome.app",
 }
