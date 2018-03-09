@@ -20,7 +20,6 @@
 	},
 	"in_process_packages":
 	[
-		"DA UI"
 	],
 	"installed_packages":
 	[
@@ -40,7 +39,6 @@
 		"EditorConfig",
 		"Emmet",
 		"Emmet Css Snippets",
-		"EsFormatter",
 		"ESLint",
 		"File History",
 		"GitGutter",
@@ -49,6 +47,7 @@
 		"HTMLBeautify",
 		"JsPrettier",
 		"LiveReload",
+		"Log Highlight",
 		"Markdown Preview",
 		"MarkdownEditing",
 		"Oceanic Next Color Scheme",

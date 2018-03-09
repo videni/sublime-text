@@ -13,11 +13,10 @@
 	],
 	"ignored_packages":
 	[
-		"DA UI",
 		"Markdown",
 		"Vintage"
 	],
 	"index_files": true,
 	"skin": "DA UI/Origin",
-	"theme": "Adaptive.sublime-theme"
+	"theme": "DA.sublime-theme"
 }
