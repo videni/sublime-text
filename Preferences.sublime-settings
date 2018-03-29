@@ -5,7 +5,7 @@
 		"tokenizer",
 		"app"
 	],
-	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"color_scheme": "Packages/DA UI/DA Dark.tmTheme",
 	"folder_exclude_patterns":
 	[
 		"runtime/",
@@ -17,6 +17,6 @@
 		"Vintage"
 	],
 	"index_files": true,
-	"skin": "DA UI/Origin",
-	"theme": "DA.sublime-theme"
+	"theme": "DA.sublime-theme",
+	"word_separators": "./\\()\"'-:,.;<>~!@#%^&*|+=[]{}`~?"
 }

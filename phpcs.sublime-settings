@@ -1,7 +1,7 @@
 {
     "phpcbf_executable_path": "/usr/local/bin/phpcbf",
     "phpcs_executable_path": "/usr/local/bin/phpcs",
-    "php_cs_fixer_executable_path": "php_cs_fixer_executable_path",
-    "phpcs_php_path": "/usr/bin/php"
+    "phpcs_php_path": "/usr/bin/php",
+    "php_cs_fixer_executable_path": "/usr/local/bin/php-cs-fixer"
 }
 

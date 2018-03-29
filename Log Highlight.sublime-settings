@@ -1,0 +1,60 @@
+{
+	"auto_highlight": false,
+	"summary_panel": "false",
+	"log_type": "system",
+	"severity" : {
+		"error" : {
+			"enable"  : true,
+			"summary" : true,
+			"pattern" : [
+				[ "^Error-\\[", "^\\s*[\\n]" ],                      // Error-[ ~ next empty line (multi-line)
+				[ "^{{{LINK}}}?[^\\r\\n]*?(?i)error", "[\\r\\n]" ],  // a line including case-insensitive 'error' with or without a link in front of 'error'
+				[ "^\\w+:\\s*\\*E", "[\\r\\n]" ],                    // ...: *E ... (single line)
+				[ "^\\[CRITICAL\\]", "[\\r\\n]" ],
+			],
+			"color" : {
+				"base"  : "#FF2983", // error message
+				"link"  : "#FF2983", // link in error message
+				"quote" : "#FF2983"  // quote in error message
+			},
+		},
+		"warning" : {
+			"enable"  : true,
+			"summary" : true,
+			"pattern" : [
+				[ "^Warning-\\[", "^\\s*[\\n]" ],                    // Warning-[ ~ next empty line (multi-line)
+				[ "^{{{LINK}}}?[^\\r\\n]*?(?i)warning", "[\\r\\n]" ],// a line including case-insensitive 'warning' with or without a link in front of 'warning'
+				[ "^\\w+:\\s*\\*W", "[\\r\\n]" ]                     // ...: *W ... (single line)
+			],
+			"color" : {
+				"base"  : "#ECFF00", // warning message
+				"link"  : "#ECFF00", // link in warning message
+				"quote" : "#ECFF00"  // quote in warning message
+			},
+		},
+		"info" : {
+			"enable"  : true,
+			"summary" : false,
+			"pattern" : [
+				[ "^Information-\\[", "^\\s*[\\n]" ],
+			],
+			"color" : {
+				"base"  : "#ECFF00", // info message
+				"link"  : "#ECFF00", // link in info message
+				"quote" : "#ECFF00"  // quote in info message
+			},
+		},
+		"deprecated" : {
+			"enable"  : true,
+			"summary" : false,
+			"pattern" : [
+				[ "\\[Deprecated\\]", "[\\r\\n]" ],
+			],
+			"color" : {
+				"base"  : "#ECFF00", // info message
+				"link"  : "#ECFF00", // link in info message
+				"quote" : "#ECFF00"  // quote in info message
+			},
+		},
+	},
+}
