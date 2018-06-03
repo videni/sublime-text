@@ -11,12 +11,14 @@
 		"runtime/",
 		".git/"
 	],
+	"font_size": 12,
 	"ignored_packages":
 	[
 		"Markdown",
 		"Vintage"
 	],
-	"index_files": true,
+	"index_files": false,
 	"theme": "DA.sublime-theme",
+	"update_check": false,
 	"word_separators": "./\\()\"'-:,.;<>~!@#%^&*|+=[]{}`~?"
 }
