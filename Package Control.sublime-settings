@@ -41,7 +41,6 @@
 		"Emmet",
 		"Emmet Css Snippets",
 		"EsFormatter",
-		"ESLint",
 		"File History",
 		"GitGutter",
 		"HTML-CSS-JS Prettify",
@@ -66,6 +65,8 @@
 		"SideBarEnhancements",
 		"SqlBeautifier",
 		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-eslint",
 		"TrailingSpaces"
 	]
 }
