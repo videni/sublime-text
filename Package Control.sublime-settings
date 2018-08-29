@@ -20,6 +20,7 @@
 	},
 	"in_process_packages":
 	[
+		"SublimeLinter"
 	],
 	"installed_packages":
 	[
@@ -30,6 +31,7 @@
 		"Babel",
 		"Babel Snippets",
 		"BracketHighlighter",
+		"Case Conversion",
 		"Color Highlighter",
 		"ColorPicker",
 		"CSS3",
@@ -37,6 +39,7 @@
 		"DA UI",
 		"DocBlockr",
 		"Dockerfile Syntax Highlighting",
+		"DotENV",
 		"EditorConfig",
 		"Emmet",
 		"Emmet Css Snippets",
@@ -56,6 +59,7 @@
 		"Path Tools",
 		"PHP Companion",
 		"PHP Completions Kit",
+		"PHP Getters and Setters",
 		"PHP-Twig",
 		"Phpcs",
 		"Pretty JSON",
@@ -66,7 +70,11 @@
 		"SqlBeautifier",
 		"SublimeCodeIntel",
 		"SublimeLinter",
+		"SublimeLinter-csslint",
 		"SublimeLinter-eslint",
+		"SublimeLinter-html-tidy",
+		"SublimeLinter-json",
+		"SublimeLinter-php",
 		"TrailingSpaces"
 	]
 }
