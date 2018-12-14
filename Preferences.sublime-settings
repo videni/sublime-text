@@ -5,21 +5,26 @@
 		"tokenizer",
 		"app"
 	],
-	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"color_scheme": "Packages/DA UI/DA Dark.tmTheme",
 	"folder_exclude_patterns":
 	[
 		"runtime/",
 		".git/"
 	],
-	"font_size": 12,
+	"hot_exit": true,
+	"remember_open_files": true,
 	"ignored_packages":
 	[
 		"Markdown",
 		"Vintage"
 	],
 	"index_files": false,
+	"open_files_in_new_window": false,
+	"rulers":
+	[
+		120
+	],
 	"theme": "DA.sublime-theme",
 	"update_check": false,
-	"rulers": [120],
 	"word_separators": "./\\()\"'-:,.;<>~!@#%^&*|+=[]{}`~?"
 }

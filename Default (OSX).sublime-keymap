@@ -3,6 +3,7 @@
     "keys": ["ctrl+\\"],
     "command": "toggle_side_bar"
   },
+  { "keys": ["ctrl+shift+minus"], "command": "jump_forward" },
   { "keys": ["super+alt+f"], "command": "show_panel", "args": {"panel": "replace", "reverse": false} },
   {
     "keys": ["super+f","super+r"], "command": "esformatter"   
