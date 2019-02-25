@@ -12,7 +12,6 @@
 		".git/"
 	],
 	"hot_exit": true,
-	"remember_open_files": true,
 	"ignored_packages":
 	[
 		"Markdown",
@@ -20,6 +19,7 @@
 	],
 	"index_files": false,
 	"open_files_in_new_window": false,
+	"remember_open_files": true,
 	"rulers":
 	[
 		120
