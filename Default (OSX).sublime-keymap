@@ -3,6 +3,10 @@
     "keys": ["ctrl+\\"],
     "command": "toggle_side_bar"
   },
+  {
+    "keys": ["super+shift+o"],
+    "command": "prompt_add_folder"
+  },
   { "keys": ["ctrl+shift+minus"], "command": "jump_forward" },
   { "keys": ["super+alt+f"], "command": "show_panel", "args": {"panel": "replace", "reverse": false} },
   {

@@ -20,6 +20,7 @@
 	},
 	"in_process_packages":
 	[
+		"GitGutter"
 	],
 	"installed_packages":
 	[

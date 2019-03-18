@@ -1,6 +1,6 @@
 # Intro
 
-Packages picked for PHP and web development spectically 
+Packages picked for PHP and web development specially 
 
 # Usage
 ```

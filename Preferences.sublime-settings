@@ -11,11 +11,17 @@
 		"runtime/",
 		".git/"
 	],
+	"font_size": 14,
 	"hot_exit": true,
 	"ignored_packages":
 	[
+		"GitGutter",
 		"Markdown",
 		"Vintage"
+	],
+	"index_exclude_patterns":
+	[
+		"*.log"
 	],
 	"index_files": false,
 	"open_files_in_new_window": false,
