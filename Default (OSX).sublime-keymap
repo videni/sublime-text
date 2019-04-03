@@ -10,7 +10,7 @@
   { "keys": ["ctrl+shift+minus"], "command": "jump_forward" },
   { "keys": ["super+alt+f"], "command": "show_panel", "args": {"panel": "replace", "reverse": false} },
   {
-    "keys": ["super+f","super+r"], "command": "esformatter"   
+    "keys": ["super+f","super+r"], "command": "esformatter"
   },
   { "keys": ["tab"], "command": "expand_abbreviation_by_tab", "context":
     [
@@ -20,5 +20,7 @@
         { "operand": false, "operator": "equal", "match_all": true, "key": "auto_complete_visible" },
         { "match_all": true, "key": "is_abbreviation" }
     ]
-}
+  },
+  { "keys": ["ctrl+d"], "command": "dash_doc"},
+  { "keys":  ["alt+m"], "command": "display_diagrams"}
 ]

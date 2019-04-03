@@ -1,0 +1,11 @@
+{
+	"plantuml_server": "http://www.plantuml.com/plantuml/",
+    "jar_file": "/usr/local/bin/plantuml.jar",
+    // Sublime3 - All Platforms
+    // Preview - OSX only `open`
+    // Quick Look - OSX only `qlmanage`
+    // EyeOfGnome - Gnome Viewer `eog`
+    // FreedesktopDefault - Linux only `xdg-open`
+    // WindowsDefaultViewer - Windows Only
+    "viewer" : "Preview"
+}

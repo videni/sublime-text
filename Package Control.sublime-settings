@@ -1,5 +1,10 @@
 {
 	"bootstrapped": true,
+	"channels":
+	[
+		"https://packagecontrol.io/channel_v3.json",
+		"https://raw.githubusercontent.com/evandrocoan/SublimeStudioChannel/master/channel.json"
+	],
 	"downloader_precedence":
 	{
 		"linux":
@@ -20,7 +25,6 @@
 	},
 	"in_process_packages":
 	[
-		"GitGutter"
 	],
 	"installed_packages":
 	[
@@ -39,6 +43,7 @@
 		"CSS3",
 		"DA CS",
 		"DA UI",
+		"DashDoc",
 		"DocBlockr",
 		"Dockerfile Syntax Highlighting",
 		"DotENV",
@@ -46,7 +51,6 @@
 		"Emmet",
 		"Emmet Css Snippets",
 		"File History",
-		"GitGutter",
 		"HTML-CSS-JS Prettify",
 		"HTML5",
 		"HTMLBeautify",
@@ -65,6 +69,7 @@
 		"PHP Getters and Setters",
 		"PHP-Twig",
 		"Phpcs",
+		"PlantUmlDiagrams",
 		"Pretty JSON",
 		"Pretty YAML",
 		"Pug",
