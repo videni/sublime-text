@@ -84,6 +84,7 @@
 		"SublimeLinter-html-tidy",
 		"SublimeLinter-json",
 		"SublimeLinter-php",
+		"SublimeREPL",
 		"TrailingSpaces"
 	]
 }

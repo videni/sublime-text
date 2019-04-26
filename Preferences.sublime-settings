@@ -5,13 +5,13 @@
 		"tokenizer",
 		"app"
 	],
+	"always_prompt_for_file_reload": false,
 	"color_scheme": "Packages/DA UI/DA Dark.tmTheme",
 	"folder_exclude_patterns":
 	[
 		"runtime/",
 		".git/"
 	],
-	"font_size": 14,
 	"hot_exit": true,
 	"ignored_packages":
 	[

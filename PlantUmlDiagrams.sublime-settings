@@ -7,5 +7,5 @@
     // EyeOfGnome - Gnome Viewer `eog`
     // FreedesktopDefault - Linux only `xdg-open`
     // WindowsDefaultViewer - Windows Only
-    "viewer" : "Preview"
+    "viewer" : "Sublime3"
 }
