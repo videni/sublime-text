@@ -6,7 +6,13 @@
 		"app"
 	],
 	"always_prompt_for_file_reload": false,
+	"boostrapped": true,
+	"channels":
+	[
+		"/Users/vidy/Downloads/channel_v3.json"
+	],
 	"color_scheme": "Packages/DA UI/DA Dark.tmTheme",
+	"debug": false,
 	"folder_exclude_patterns":
 	[
 		"runtime/",
@@ -29,6 +35,7 @@
 	[
 		120
 	],
+	"skin": "DA UI/Classic",
 	"theme": "DA.sublime-theme",
 	"update_check": false,
 	"word_separators": "./\\()\"'-:,.;<>~!@#%^&*|+=[]{}`~?"
